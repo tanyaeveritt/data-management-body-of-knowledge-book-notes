@@ -1,6 +1,6 @@
 # DAMA DMBOK2 - StudyVault
 
-The DAMA-DMBOK2 is the industry-standard reference for managing data as an organisational asset — covering governance, architecture, quality, security, metadata, and more across 600 pages and 17 chapters.
+The [DAMA-DMBOK2](https://dama.org/learning-resources/dama-data-management-body-of-knowledge-dmbok/) is the industry-standard reference for managing data as an organisational asset — covering governance, architecture, quality, security, metadata, and more across 600 pages and 17 chapters.
 
 These notes distil all 17 chapters into a **2–2.5 hour** read, compared to a **~13 hours** read of the original book. 
 
