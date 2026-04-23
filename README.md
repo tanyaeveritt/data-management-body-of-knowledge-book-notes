@@ -73,11 +73,11 @@ Data_Management_StudyVault/
 https://github.com/user-attachments/assets/57558a59-2fc7-42c6-99ab-2464dabb8311
 
 
-<img width="2752" height="1438" alt="image" src="https://github.com/user-attachments/assets/3f350ddc-d667-4af1-9ac7-767dcd94f2d0" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/3f350ddc-d667-4af1-9ac7-767dcd94f2d0" />
 
-<img width="2882" height="1718" alt="image" src="https://github.com/user-attachments/assets/36715c16-5da9-4782-8b3d-44ecbaec67e9" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/36715c16-5da9-4782-8b3d-44ecbaec67e9" />
 
-<img width="2780" height="1638" alt="image" src="https://github.com/user-attachments/assets/22d22bb2-98e6-469f-840a-3f39a20f79b0" />
+<img width="600" alt="image" src="https://github.com/user-attachments/assets/22d22bb2-98e6-469f-840a-3f39a20f79b0" />
 
 
 ---
