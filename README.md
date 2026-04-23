@@ -70,6 +70,13 @@ Data_Management_StudyVault/
 - **Study notes** -- key concepts, summary tables, and related note links
 - **Practice questions** -- recall, application, and analysis questions with collapsible answers
 
+<img width="2752" height="1438" alt="image" src="https://github.com/user-attachments/assets/3f350ddc-d667-4af1-9ac7-767dcd94f2d0" />
+
+<img width="2882" height="1718" alt="image" src="https://github.com/user-attachments/assets/36715c16-5da9-4782-8b3d-44ecbaec67e9" />
+
+<img width="2780" height="1638" alt="image" src="https://github.com/user-attachments/assets/22d22bb2-98e6-469f-840a-3f39a20f79b0" />
+
+
 ---
 
 ## How to Read the Notes
